@@ -14,9 +14,9 @@ This is a Meal App that helps users find recipes based on different cuisines.
    ```bash
    git clone https://github.com/lavanyareddy21/MealPrepApp.git
    
-  Navigate to project: cd MealPrepApp
-  Install dependencies: npm install
-  run the app: npx expo run
+  - Navigate to project: cd MealPrepApp
+  - Install dependencies: npm install
+  - run the app: npx expo run
 
 ## Features
 - Browse meals by category.
